@@ -1,5 +1,2 @@
-json
 pandas
 requests
-boto3
-io
