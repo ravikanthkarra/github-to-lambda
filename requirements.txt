@@ -1,0 +1,5 @@
+pandas
+requests
+json
+boto3
+io
