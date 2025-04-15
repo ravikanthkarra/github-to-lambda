@@ -25,7 +25,7 @@ def lambda_handler(event, context):
         data = pd.read_csv(io.BytesIO(file_content))
         print(data)
         print("After data")
-        print("Hare Krishna!)
+        print("Hare Krishna!")
         # return bucket
     
         return{
